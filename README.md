@@ -11,6 +11,7 @@
 - Game Development basics (Unity & C#)
 - Data Structures and Algorithms
 - git & GitHub for version control
+- Hi, I love using git!
 
 ---
 
