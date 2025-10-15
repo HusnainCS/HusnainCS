@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">👋 Hi there, I'm Husnain!</h1>
-<h3 align="center">🚀 Cyber Security Enthusiast | BS Computer Science Student | Linux & Kali Linux User</h3>
+<h3 align="center">Cyber Security Enthusiast | BS Computer Science Student | Linux & Kali Linux User</h3>
 
 ---
 
