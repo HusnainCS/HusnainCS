@@ -54,7 +54,7 @@
 
 ### 📫 Connect With Me
 <p align="left">
-  <a href="mailto:husnian.cs@gmail.com"><img src="https://img.shields.io/badge/Email-husnian.cs%40gmail.com-blue?style=for-the-badge&logo=gmail"/></a>
+  <a href="mailto:huxnian.cs@gmail.com"><img src="https://img.shields.io/badge/Email-husnian.cs%40gmail.com-blue?style=for-the-badge&logo=gmail"/></a>
   <a href="https://www.linkedin.com/in/husnain-ali-7a4761369" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Husnain%20Ali-blue?style=for-the-badge&logo=linkedin"/></a>
 </p>
 
