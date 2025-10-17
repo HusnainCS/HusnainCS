@@ -79,7 +79,7 @@
 ---
 <!-- Animated Footer -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7C873&center=true&vCenter=true&width=900&lines=Learning+never+stops+—+I%E2%80%99m+Exploring+Cyber+Security+—+One+Step+at+a+Time.&refresh=1" alt="Learning never stops animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7C873&center=true&vCenter=true&width=900&lines=I%E2%80%99m+Exploring+Cyber+Security+—+One+Step+at+a+Time.&refresh=1" alt="Learning never stops animation" />
 </p>
 
 <!-- Neon Divider -->
