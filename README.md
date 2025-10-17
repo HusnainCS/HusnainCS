@@ -77,14 +77,12 @@
 </p>
 
 ---
-
 <!-- Animated Footer -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7C873&center=true&vCenter=true&width=900&lines=Learning+never+stops+—+I%E2%80%99m+passionate+about+Cyber+Security+and+constantly+exploring+ways+to+make+the+digital+world+safer." alt="Learning never stops - Cyber Security passion animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7C873&center=true&vCenter=true&width=900&lines=Learning+never+stops+—+I%E2%80%99m+passionate+about+Cyber+Security+and+constantly+exploring+ways+to+make+the+digital+world+safer.&refresh=1" alt="Learning never stops animation" />
 </p>
 
 <!-- Neon Divider -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
-
