@@ -1,10 +1,14 @@
-<!-- Header Section with Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=7FFFD4&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Husnain!" alt="Typing SVG" />
-</h1>
+<!-- 3D Name Banner (replace URL with your custom banner if you want) -->
+<p align="center">
+  <img src="https://textstudio.co/text-effect/3d-gradient-animated-name-1716799306.gif" alt="Husnain 3D Banner" width="450"/>
+</p>
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7C873&center=true&width=550&lines=Cyber+Security+Enthusiast;BS+Computer+Science+Student;Linux+%26+Kali+Linux+User" alt="Typing SVG" />
+   BS Computer Science Student | Linux & Kali Linux User
 </h3>
+
+<!-- Optionally, you can use a different 3D text generator and link your own image above.
+     If you want your own name in 3D, you can generate it at: https://textstudio.co/ or https://cooltext.com/
+     Upload the generated GIF to your repo or use their direct link. -->
 
 ---
 
@@ -37,13 +41,19 @@
 ---
 
 ### 🛠️ Tools & Technologies
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/terminal.gif" width="50"/>
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/computer.gif" width="40"/>
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/hacker.gif" width="40"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer"/>
 </p>
 
 ---
@@ -59,21 +69,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusnainCS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/>
 </p>
 
----
-
-### ✨ Fun Animation
+<!-- Snake animation contribution graph -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coder gif">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" style="max-width: 100%;" />
 </p>
 
 ---
 
 ### 📫 Connect With Me
-<p align="left">
+<p align="center">
   <a href="mailto:huxnain.cs@gmail.com"><img src="https://img.shields.io/badge/Email-husnian.cs%40gmail.com-blue?style=for-the-badge&logo=gmail"/></a>
   <a href="https://www.linkedin.com/in/husnain-ali-7a4761369" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Husnain%20Ali-blue?style=for-the-badge&logo=linkedin"/></a>
 </p>
 
 ---
 
-⭐ *“Learning never stops — I’m passionate about Cyber Security and constantly exploring ways to make the digital world safer.”*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7C873&center=true&vCenter=true&width=800&lines=Learning+never+stops+%E2%80%94+I%E2%80%99m+passionate+about+Cyber+Security+and+constantly+exploring+ways+to+make+the+digital+world+safer." alt="Typing SVG" />
+</p>
