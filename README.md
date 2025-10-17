@@ -1,9 +1,10 @@
-<!-- 3D Name Banner (replace with your custom or preferred 3D banner if desired) -->
+<!-- Animated 3D Header -->
 <p align="center">
-  <img src="https://textstudio.co/text-effect/3d-gradient-animated-name-1716799306.gif" alt="Husnain 3D Banner" width="450"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Husnain+Ali;Cyber+Security+Enthusiast;BS+Computer+Science+Student;Linux+%26+Kali+Linux+User" alt="Husnain Ali Animated Header"/>
 </p>
+
 <h3 align="center">
-  Cyber Security Enthusiast | BS Computer Science Student | Linux & Kali Linux User
+  🧠 Cyber Security Enthusiast | 💻 BS Computer Science Student | 🐧 Linux & Kali Linux User
 </h3>
 
 ---
@@ -48,15 +49,9 @@
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/hacker.gif" width="40"/>
 </p>
 
-<!-- Cyberpunk Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer"/>
-</p>
-
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HusnainCS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HusnainCS&theme=tokyonight&hide_border=true&background=0D1117" height="160"/>
@@ -66,7 +61,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusnainCS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/>
 </p>
 
-<!-- Snake animation contribution graph -->
+---
+
+### 🐍 Contribution Graph
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" style="max-width: 100%;" />
 </p>
@@ -83,10 +80,10 @@
 
 <!-- Animated Footer -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7C873&center=true&vCenter=true&width=900&lines=Learning+never+stops+—+I%E2%80%99m+passionate+about+Cyber+Security+and+constantly+exploring+ways+to+make+the+digital+world+safer." alt="Animated Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7C873&center=true&vCenter=true&width=900&lines=Learning+never+stops+—+I'm+passionate+about+Cyber+Security+and+constantly+exploring+ways+to+make+the+digital+world+safer." alt="Animated Footer" />
 </p>
 
-<!-- 3D Neon Divider for Extra Flair (optional) -->
+<!-- Neon Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=20&section=footer&text=&fontSize=24" alt="Footer Neon Divider"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
