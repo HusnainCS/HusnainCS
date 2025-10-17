@@ -72,14 +72,14 @@
 
 ### 📫 Connect With Me
 <p align="center">
-  <a href="mailto:huxnain.cs@gmail.com"><img src="https://img.shields.io/badge/Email-husnian.cs%40gmail.com-blue?style=for-the-badge&logo=gmail"/></a>
+  <a href="mailto:huxnain.cs@gmail.com"><img src="https://img.shields.io/badge/Email-huxnain.cs%40gmail.com-blue?style=for-the-badge&logo=gmail"/></a>
   <a href="https://www.linkedin.com/in/husnain-ali-7a4761369" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Husnain%20Ali-blue?style=for-the-badge&logo=linkedin"/></a>
 </p>
 
 ---
 <!-- Animated Footer -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7C873&center=true&vCenter=true&width=900&lines=I%E2%80%99m+Exploring+Cyber+Security+—+One+Step+at+a+Time.&refresh=1" alt="Learning never stops animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7C873&center=true&vCenter=true&width=900&lines=Exploring+Cyber+Security+—+One+Step+at+a+Time.&refresh=1" alt="Learning never stops animation" />
 </p>
 
 <!-- Neon Divider -->
