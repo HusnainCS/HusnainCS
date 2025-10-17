@@ -1,14 +1,10 @@
-<!-- 3D Name Banner (replace URL with your custom banner if you want) -->
+<!-- 3D Name Banner (replace with your custom or preferred 3D banner if desired) -->
 <p align="center">
   <img src="https://textstudio.co/text-effect/3d-gradient-animated-name-1716799306.gif" alt="Husnain 3D Banner" width="450"/>
 </p>
 <h3 align="center">
-   BS Computer Science Student | Linux & Kali Linux User
+  Cyber Security Enthusiast | BS Computer Science Student | Linux & Kali Linux User
 </h3>
-
-<!-- Optionally, you can use a different 3D text generator and link your own image above.
-     If you want your own name in 3D, you can generate it at: https://textstudio.co/ or https://cooltext.com/
-     Upload the generated GIF to your repo or use their direct link. -->
 
 ---
 
@@ -52,6 +48,7 @@
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/hacker.gif" width="40"/>
 </p>
 
+<!-- Cyberpunk Divider -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer"/>
 </p>
@@ -84,6 +81,12 @@
 
 ---
 
+<!-- Animated Footer -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7C873&center=true&vCenter=true&width=800&lines=Learning+never+stops+%E2%80%94+I%E2%80%99m+passionate+about+Cyber+Security+and+constantly+exploring+ways+to+make+the+digital+world+safer." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7C873&center=true&vCenter=true&width=900&lines=Learning+never+stops+—+I%E2%80%99m+passionate+about+Cyber+Security+and+constantly+exploring+ways+to+make+the+digital+world+safer." alt="Animated Footer" />
+</p>
+
+<!-- 3D Neon Divider for Extra Flair (optional) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=20&section=footer&text=&fontSize=24" alt="Footer Neon Divider"/>
 </p>
