@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f3d24,100:00ff9d&height=220&section=header&text=Husnain%20Fiaz&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Cyber%20Security%20%7C%20Ethical%20Hacking%20%7C%20OSINT&descAlignY=52&descSize=18&descColor=00ff9d)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f3d24,100:00ff9d&height=220&section=header&text=Husnain%&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Cyber%20Security%20%7C%20Ethical%20Hacking%20%7C%20OSINT&descAlignY=52&descSize=18&descColor=00ff9d)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF9D&center=true&vCenter=true&width=650&lines=Aspiring+Penetration+Tester+%F0%9F%94%90;Learning+Ethical+Hacking+%26+OSINT;Securing+Systems%2C+One+Exploit+at+a+Time;Always+Learning%2C+Always+Hacking+Ethically)](https://git.io/typing-svg)
 
@@ -96,43 +96,8 @@ I'm a Computer Science student **fully committed to Cyber Security**. I spend my
 
 </div>
 
-<br>
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=thehusnain&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=00FF9D&text_color=c9d1d9&ring_color=00FF9D" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehusnain&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=c9d1d9&langs_count=8" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thehusnain&hide_border=true&background=0D1117&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="100%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=thehusnain&theme=matrix&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
-
-</div>
-
-<br>
-
-## 📈 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thehusnain&bg_color=0D1117&color=00FF9D&line=00FF9D&point=ffffff&area=true&area_color=00FF9D&title_color=00FF9D&hide_border=true" width="100%"/>
-
-![](https://github-contributor-stats.vercel.app/api?username=thehusnain&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Optional: animated contribution snake. Add the accompanying snake.yml
-     workflow to .github/workflows/ in your thehusnain/thehusnain repo, then
-     uncomment the block below once the "output" branch is generated.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thehusnain/thehusnain/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thehusnain/thehusnain/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/thehusnain/thehusnain/output/github-contribution-grid-snake.svg" />
-</picture>
--->
-
-</div>
 
 <br>
 
