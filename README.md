@@ -3,14 +3,13 @@
 ░█▀█░█░█░▀▀█░█░█░█▀█░░█░░█░█
 ░▀░▀░▀▀▀░▀▀▀░▀░▀░▀░▀░▀▀▀░▀░▀
 ```
-
-```diff
-+ breaking web apps so real attackers can't
-```
+---
 
 ### about me
 
 I enjoy exploring cybersecurity through hands-on practice, solving CTF challenges, and continuously improving my skills in ethical hacking, **especially `web security`** — that's where most of my time and curiosity goes. I believe the best way to learn is by building experience through real-world challenges.
+
+---
 
 ```
 $ whoami
@@ -28,15 +27,15 @@ prepping for eJPT + Security+
 
 ### ping me
 
-![Discord](https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2) [discord](https://discord.gg/sheriffsec)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2) [linkedin](https://linkedin.com/in/thehusnainfiaz)
-![Reddit](https://img.shields.io/badge/Reddit-0D1117?style=for-the-badge&logo=reddit&logoColor=FF4500) [reddit](https://reddit.com/user/LavishnessLow9281)
-![YouTube](https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000) [youtube](https://youtube.com/@thephantomdelux)
-![Gmail](https://img.shields.io/badge/Mail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335) [mail](mailto:contact@husnain.rocks)
+[![Discord](https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.gg/sheriffsec)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/thehusnainfiaz)
+[![Reddit](https://img.shields.io/badge/Reddit-0D1117?style=for-the-badge&logo=reddit&logoColor=FF4500)](https://reddit.com/user/LavishnessLow9281)
+[![YouTube](https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://youtube.com/@thephantomdelux)
+[![Gmail](https://img.shields.io/badge/Mail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:contact@husnain.rocks)
 
 ---
 
-`# three layers stand between you and the truth. good luck.`
+`# bored? solve this:`
 
 `NTA2MjYxNzQ2NTZlNjc2NjJjMjA2YzYyNjgyMDcwNjU2ZTcwNzg3MjcxMjA3MjY5NzI2NTZjMjA3OTZlNmM3MjY1MmUyMDQxNjI2YTIwNzQ2MjIwNjM2ZTY3NzA3NTIwNjY2MjdhNzI2Nzc1NzY2MTc0MjA2ZjcyNzM2MjY1NzIyMDY2NjI3YTcyNjI2MTcyMjA3Mjc5NjY3MjIwNzM3NjYxNzE2NjIwNzY2NzIwNzM3NjY1NjY2NzJl`
 
