@@ -1,110 +1,26 @@
-<div align="center">
+### husnain
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f3d24,100:00ff9d&height=220&section=header&text=Husnain%&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Cyber%20Security%20%7C%20Ethical%20Hacking%20%7C%20OSINT&descAlignY=52&descSize=18&descColor=00ff9d)
+```
+$ whoami
+cs student — beginner, all in on cybersecurity
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF9D&center=true&vCenter=true&width=650&lines=Aspiring+Penetration+Tester+%F0%9F%94%90;Learning+Ethical+Hacking+%26+OSINT;Securing+Systems%2C+One+Exploit+at+a+Time;Always+Learning%2C+Always+Hacking+Ethically)](https://git.io/typing-svg)
+$ cat focus.txt
+red teaming   pentesting   osint   network security
 
-![Profile Views](https://komarev.com/ghpvc/?username=thehusnain&color=00ff9d&style=for-the-badge&label=PROFILE%20VIEWS)
+$ cat status.log
+grinding CTFs on THM / HTB / picoCTF / OverTheWire
+prepping for eJPT + Security+
+```
 
-</div>
+**stack** — `Linux` `Kali` `Python` `Bash` `C/C++` `Nmap` `Wireshark` `Burp Suite` `Metasploit` `Git`
 
-<br>
+**reach** — [discord](https://discord.gg/sheriffsec) · [linkedin](https://linkedin.com/in/thehusnainfiaz) · [reddit](https://reddit.com/user/LavishnessLow9281) · [youtube](https://youtube.com/@thephantomdelux) · [mail](mailto:contact@husnain.rocks)
 
-## 🧑‍💻 About Me
+---
 
-I'm a Computer Science student **fully committed to Cyber Security**. I spend my time learning how systems break so I can learn how to defend them — through CTF rooms, home-lab experiments, and beginner-friendly security write-ups. Currently building the foundation to move from "curious learner" into penetration testing and security research.
+`# decode this if you're bored:`
+`# eW91IGZvdW5kIGl0LiBub3cgZ28gcG9wIGEgc2hlbGwgKHdpdGggcGVybWlzc2lvbiku`
 
-<br>
+---
 
-## 🎯 What I'm Focused On
-
-- 🔐 Penetration Testing & Ethical Hacking fundamentals
-- 🌐 Network Security & Protocol / Traffic Analysis
-- 🕵️ OSINT (Open Source Intelligence) techniques
-- 🐧 Linux system administration & hardening
-- 🛡️ Web Application Security (OWASP Top 10)
-- 🐍 Security scripting & automation with Python and Bash
-- 🚩 Solving CTF challenges to sharpen practical, hands-on skills
-
-<br>
-
-## 🌱 Currently Learning
-
-- Advanced network penetration testing
-- Digital Forensics & Incident Response (DFIR) basics
-- Malware analysis fundamentals
-- Active Directory attack paths
-- Preparing for entry-level certs (Security+, eJPT, CEH)
-
-<br>
-
-## 🧪 Currently Practicing On
-
-<div align="center">
-
-![TryHackMe](https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=00FF9D)
-![HackTheBox](https://img.shields.io/badge/Hack%20The%20Box-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF9D)
-![PicoCTF](https://img.shields.io/badge/picoCTF-0D1117?style=for-the-badge&logoColor=00FF9D)
-![OverTheWire](https://img.shields.io/badge/OverTheWire-0D1117?style=for-the-badge&logoColor=00FF9D)
-![PortSwigger](https://img.shields.io/badge/PortSwigger%20Academy-0D1117?style=for-the-badge&logoColor=00FF9D)
-
-</div>
-
-<br>
-
-## 🧰 Tools & Tech Arsenal
-
-<div align="center">
-
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00FF9D)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00FF9D)
-![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=00FF9D)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF9D)
-![C++](https://img.shields.io/badge/C%2FC%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00FF9D)
-![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=00FF9D)
-![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logoColor=00FF9D)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-0D1117?style=for-the-badge&logoColor=00FF9D)
-![Metasploit](https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logoColor=00FF9D)
-![OWASP](https://img.shields.io/badge/OWASP-0D1117?style=for-the-badge&logo=owasp&logoColor=00FF9D)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00FF9D)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF9D)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9D)
-
-</div>
-
-<br>
-
-## 🤝 Open To
-
-- Learning opportunities and mentorship
-- Collaborating on beginner-friendly security projects
-- Joining study groups and cyber security communities
-- Sharing knowledge with fellow learners
-
-<br>
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.gg/thephantomdelux)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/thehuxnain)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/thehusnainfiaz)
-[![Reddit](https://img.shields.io/badge/Reddit-0D1117?style=for-the-badge&logo=reddit&logoColor=FF4500)](https://reddit.com/user/LavishnessLow9281)
-[![YouTube](https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://youtube.com/@thephantomdelux)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:huxnain.cs@gmail.com)
-
-</div>
-
-
-
-
-<br>
-
-<div align="center">
-
-*"Every system has a vulnerability. Every hacker was once a beginner. Keep learning, keep testing (ethically), keep building."*
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,100:000000&height=120&section=footer)
-
-</div>
+> every system breaks eventually. the only question is who finds it first.
