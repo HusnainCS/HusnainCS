@@ -1,5 +1,9 @@
 ### husnain
 
+```diff
+- red teamer in training
+```
+
 ```
 $ whoami
 cs student — beginner, all in on cybersecurity
