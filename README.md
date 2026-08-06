@@ -35,11 +35,9 @@ prepping for eJPT + Security+
 
 ---
 
-`# bored? solve this:`
+`# one more thing before you close the tab:`
 
 `NTA2MjYxNzQ2NTZlNjc2NjJjMjA2YzYyNjgyMDcwNjU2ZTcwNzg3MjcxMjA3MjY5NzI2NTZjMjA3OTZlNmM3MjY1MmUyMDQxNjI2YTIwNzQ2MjIwNjM2ZTY3NzA3NTIwNjY2MjdhNzI2Nzc1NzY2MTc0MjA2ZjcyNzM2MjY1NzIyMDY2NjI3YTcyNjI2MTcyMjA3Mjc5NjY3MjIwNzM3NjYxNzE2NjIwNzY2NzIwNzM3NjY1NjY2NzJl`
-
-<sub>base64 → hex → rot13 → ??? — happy hunting</sub>
 
 ---
 
